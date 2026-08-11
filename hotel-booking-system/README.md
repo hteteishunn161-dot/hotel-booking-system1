@@ -39,6 +39,14 @@ A web-based application designed to streamline room reservations, manage guest b
 - Online Booking: Easy step-by-step room reservation process.
 - Admin Dashboard: Manage bookings, update room statuses, and view customer reports.
 
+  ## Database Structure
+
+The database includes the following main entities:
+- Users: Stores user profiles and authentication data.
+- Rooms: Holds room numbers, types, status, and nightly rates.
+- Bookings: Tracks check-in/check-out dates, total cost, and booking statuses.
+- Payments: Records transaction history and payment methods.
+
  ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
