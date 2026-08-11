@@ -71,4 +71,4 @@ The project can be developed using separate branches such as:
 
 ## Author
 
-Yamin Shwe Zin Aung
+Htet Ei Shum
