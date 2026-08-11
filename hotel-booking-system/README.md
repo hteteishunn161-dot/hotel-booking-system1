@@ -39,6 +39,10 @@ A web-based application designed to streamline room reservations, manage guest b
 - Online Booking: Easy step-by-step room reservation process.
 - Admin Dashboard: Manage bookings, update room statuses, and view customer reports.
 
+ ## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## Tech Stack
 
 - Frontend: HTML5, CSS3, JavaScript
