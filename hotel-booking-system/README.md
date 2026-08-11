@@ -45,6 +45,10 @@ A web-based application designed to streamline room reservations, manage guest b
 - Backend: Node.js / Python / PHP (Adjust based on your project)
 - Database: MySQL / PostgreSQL / MongoDB
 
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for suggestions and bug reports.
+
 ## Run
 
 ```bash
