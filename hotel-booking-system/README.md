@@ -32,6 +32,13 @@ pip install -r requirements.txt
 
 A web-based application designed to streamline room reservations, manage guest bookings, and optimize hotel management operations.
 
+## Key Features
+
+- User Authentication: Secure registration and login for guests and admins.
+- Room Browsing: View available rooms with details, pricing, and amenities.
+- Online Booking: Easy step-by-step room reservation process.
+- Admin Dashboard: Manage bookings, update room statuses, and view customer reports.
+
 ## Run
 
 ```bash
