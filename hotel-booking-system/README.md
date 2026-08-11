@@ -65,6 +65,12 @@ Contributions are welcome! Please feel free to submit a Pull Request or open an 
 
 This project is currently under active development. New updates and bug fixes are pushed regularly.
 
+## Installation Guide
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/your-username/hotel-booking-system.git](https://github.com/your-username/hotel-booking-system.git)
+
 ## Run
 
 ```bash
