@@ -28,6 +28,9 @@ A simple Hotel Booking System built with Python, PyQt5 and SQLite3.
 ```bash
 pip install -r requirements.txt
 ```
+# Hotel Booking System
+
+A web-based application designed to streamline room reservations, manage guest bookings, and optimize hotel management operations.
 
 ## Run
 
