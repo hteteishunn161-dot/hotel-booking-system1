@@ -61,6 +61,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for suggestions and bug reports.
 
+## Project Status
+
+This project is currently under active development. New updates and bug fixes are pushed regularly.
+
 ## Run
 
 ```bash
